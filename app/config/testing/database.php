@@ -57,7 +57,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'learninglaravel',
 			'username'  => 'root',
-			'password'  => '',
+			'password'  => 'Shante4794!@#$',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
